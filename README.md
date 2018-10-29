@@ -1,2 +1,3 @@
 # personal-profile-repo
-Repository for displaying an e-profile
+
+Repository for displaying an e-profile.
